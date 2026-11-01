@@ -289,6 +289,7 @@ Explore the complete project and supporting materials:
 
 - **Python Data Preparation Notebook:** [View the Google Colab Notebook](https://colab.research.google.com/drive/1sFuC_X9rQnSapmMHf_Af2jBsSvAP9Tyf?usp=sharing)
 
-- **Cleaned Dataset:** [View the Cleaned Dataset](data\retail_sales_cleaned.csv)
+- **Cleaned Dataset:**<a href="data\retail_sales_cleaned.csv">View the Cleaned Dataset</a>
+
 
 The Tableau dashboard provides interactive views of sales performance, product profitability, geographic performance, trends and customer segments. The Google Colab notebook documents the Python-based data preparation and cleaning process.
