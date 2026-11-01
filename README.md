@@ -61,3 +61,21 @@ The three primary measures used to evaluate business performance are:
 - **Profit Margin:** The proportion of revenue retained as profit, calculated as Profit ÷ Revenue × 100.
 
 Supporting KPIs, including units sold and cost, provide additional context for understanding sales volume and financial performance.
+
+## Dashboard & Visual Analysis
+
+### 1. Executive Overview — Strong Revenue, but Where Does It Come From?
+
+The Executive Overview provides management with a snapshot of the retailer's overall financial performance and geographical sales distribution.
+
+The business generated **85.27 million in revenue** and **32.22 million in profit**, achieving an overall profit margin of approximately **37.8%** across the analysed period.
+
+However, sales contributions were not evenly distributed across markets.
+
+The United States generated the highest revenue at **27.98 million (32.8%)**, followed by Australia with **21.30 million (25.0%)**. Together, these two markets contributed approximately **57.8% of total revenue**.
+
+The dashboard also provides a monthly revenue trend, allowing management to monitor changes in sales performance over time.
+
+**So What?**
+
+The United States and Australia represent the largest revenue-generating markets in this dataset. Their performance is particularly important to overall business results. Management should continue monitoring these markets while evaluating opportunities to strengthen revenue contributions from the remaining countries.
