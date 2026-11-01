@@ -158,14 +158,29 @@ Management should investigate the product mix, pricing and cost structures of hi
   </tr>
 </table>
 
-Bikes account for the largest share of product revenue, generating 61.78M (72.5%) of total revenue, followed by Accessories at 15.12M (17.7%) and Clothing at 8.37M (9.8%). This indicates that the business relies heavily on its bicycle product range to generate sales.
+Bikes dominate the product portfolio, generating 61.78M (72.5%) of total revenue, compared with 15.12M (17.7%) from Accessories and 8.37M (9.8%) from Clothing. This indicates that overall sales performance is heavily dependent on the bicycle category.
 
-At the individual product level, Road-150 Red, 62 is the highest revenue-generating product, contributing approximately 3.83M. However, the profit ranking tells a different story. Mountain-200 Black, 38 ranks first with approximately 1.31M in profit, while Road-150 Red, 62 ranks second with 1.24M. The Mountain-200 series also occupies three of the five highest-profit positions. Notably, Sport-100 Helmet, Red ranks fourth, contributing approximately 1.19M in profit.
+However, comparing the top five products by revenue and profit reveals an important difference. Road-150 Red, 62 is the highest revenue-generating product at 3.83M, but it ranks second in profit at 1.24M. In contrast, Mountain-200 Black, 38 generates 3.37M in revenue but ranks first in profit at 1.31M. Its higher profit contribution relative to its revenue suggests a stronger profit margin than the Road-150 Red, 62. This demonstrates that the products generating the most sales do not always generate the most profit.
 
-These differences show why revenue alone is not enough to evaluate product performance. A product generating the highest sales value does not necessarily contribute the highest profit. The strong profit contribution from several Mountain-200 variants and the Sport-100 Helmet also highlights the importance of evaluating both bicycle and accessory performance.
+Another notable finding is the presence of Sport-100 Helmet, Red among the five most profitable products, contributing 1.19M in profit. Although bicycles dominate total category revenue, this result highlights the contribution that individual accessories can make to overall profitability.
 
-**Business Recommendations**
-- Maintain close attention to stock availability and profitability for leading bicycle models, particularly the Mountain-200 variants.
-- Review product costs and profit margins to understand differences between high-revenue and high-profit products.
-- Explore targeted bicycle-and-helmet bundle offers to encourage accessory purchases.
-- Evaluate product performance using both revenue and profit when making inventory and marketing decisions.
+**Business Implications and Recommendations**
+
+The business should avoid evaluating product success through revenue alone. The difference between the leading revenue and profit contributors highlights the importance of monitoring product-level profitability alongside sales performance. Management should review the costs and margins of high-revenue products, maintain appropriate stock levels for consistently profitable bicycle models, and investigate opportunities to increase accessory sales. Targeted bicycle-and-helmet bundles could also be tested to assess whether they encourage additional purchases and improve overall order profitability.
+
+
+### Profitability Trend Analysis
+
+#### Profit Margins Reached Approximately 51% at Two Points, but the Improvements Were Not Sustained
+
+<p align="center">
+  <img src="Charts/Profit Margin Timeline.png" alt="Profit Margin Timeline" width="100%">
+</p>
+
+The monthly profit margin trend shows that profitability was relatively stable at approximately 31.5%–33.5% from late 2010 to mid-2013. This pattern changed around mid-2013, when margins increased to approximately 42.5%, followed by a peak of around 51% in mid-2014. However, this improvement was temporary, with margins subsequently returning to approximately 32.5%–33.5%.
+
+A similar pattern appeared between late 2015 and mid-2016. Profit margins increased to approximately 39%–41%, before reaching another peak of around 51%. These movements indicate that the business experienced periods of stronger profitability, but the higher margins were not consistently maintained.
+
+**Business Implications and Recommendations**
+
+The temporary increases in profit margin suggest opportunities to investigate which products, pricing changes or cost movements contributed to stronger profitability during these periods. Management should compare product mix, selling prices and costs during peak-margin months against more typical periods. Understanding these differences could help identify practices worth maintaining and areas where profitability can be improved more consistently.
