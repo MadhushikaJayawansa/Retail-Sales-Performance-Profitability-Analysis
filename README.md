@@ -131,3 +131,30 @@ The findings reveal differences in how effectively geographical markets convert 
 **So What?**
 
 Management should investigate the product mix, pricing and cost structures of high-revenue, lower-margin states to identify opportunities for improving profitability. The higher-margin state could also provide a useful comparison for understanding differences in product and sales performance. These investigations should take place before assuming that increasing sales volume will automatically improve financial performance.
+
+
+### Product Performance
+
+### Bikes Dominate Revenue, with Road-150 and Mountain-200 Models Leading Individual Product Sales
+
+
+<!-- Top Image: Full Width -->
+<p align="center">
+  <img src="Charts/Revenue by Product Category.png" alt="Revenue by Product Category" width="100%">
+</p>
+
+<!-- Bottom Two Images: Side by Side (Left and Right) -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="Charts/Top 5 Products by Revenue.png" alt="Top 5 Products by Revenue" width="100%">
+      <br>
+      <sub><b>Top 5 Products by Revenue</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="Charts/Top 5 Products by Profit.png" alt="Top 5 Products by Profit" width="100%">
+      <br>
+      <sub><b>Top 5 Products by Profit</b></sub>
+    </td>
+  </tr>
+</table>
