@@ -62,20 +62,26 @@ The three primary measures used to evaluate business performance are:
 
 Supporting KPIs, including units sold and cost, provide additional context for understanding sales volume and financial performance.
 
-## Dashboard & Visual Analysis
+## Visual Analysis
 
-### 1. Executive Overview — Strong Revenue, but Where Does It Come From?
+### Monthly Revenue by Year
 
-The Executive Overview provides management with a snapshot of the retailer's overall financial performance and geographical sales distribution.
+#### Revenue Accelerated in the Second Half of 2013 and 2015, Reaching a Record 3.85 Million in December 2015
 
-The business generated **85.27 million in revenue** and **32.22 million in profit**, achieving an overall profit margin of approximately **37.8%** across the analysed period.
+<img src="Charts/TIME_Heatmap_Revenue.png">
 
-However, sales contributions were not evenly distributed across markets.
+The monthly revenue heatmap reveals substantial differences in sales performance across the analysed years, with particularly strong revenue growth during the second half of 2013 and 2015.
 
-The United States generated the highest revenue at **27.98 million (32.8%)**, followed by Australia with **21.30 million (25.0%)**. Together, these two markets contributed approximately **57.8% of total revenue**.
+In 2013, monthly revenue increased from **1.23 million in July to 3.00 million in December**. A similar pattern occurred in 2015, when revenue rose from **666,938 in January to 3.85 million in December**, the highest monthly revenue recorded in the dataset.
 
-The dashboard also provides a monthly revenue trend, allowing management to monitor changes in sales performance over time.
+December also recorded relatively strong revenue in the other complete years displayed, reaching 1.13 million in 2011 and 1.11 million in 2012.
+
+However, this growth pattern was not consistent throughout the dataset. In 2014, revenue was relatively high during the first six months, reaching 2.79 million in June, before dropping to 516,887 in July. Revenue increased again in the following year, particularly during the second half of 2015.
+
+**Business Insight**
+
+The repeated increase in December revenue across the complete years suggests that year-end sales periods may be important contributors to overall business performance. The substantial increases observed during the second half of 2013 and 2015 also highlight the need to understand what drove these changes rather than assuming they were caused by seasonal demand alone.
 
 **So What?**
 
-The United States and Australia represent the largest revenue-generating markets in this dataset. Their performance is particularly important to overall business results. Management should continue monitoring these markets while evaluating opportunities to strengthen revenue contributions from the remaining countries.
+Management could investigate the sales activities, product performance and market contributions associated with these high-revenue periods. Understanding the factors behind these increases could help improve inventory planning, promotional timing and resource allocation during important sales periods.
