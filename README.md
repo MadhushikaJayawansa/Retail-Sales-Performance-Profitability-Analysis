@@ -135,8 +135,7 @@ Management should investigate the product mix, pricing and cost structures of hi
 
 ### Product Performance
 
-### Bikes Dominate Revenue, with Road-150 and Mountain-200 Models Leading Individual Product Sales
-
+#### Bikes Dominate Revenue, but Product Rankings Reveal Different Profit Contributors
 
 <!-- Top Image: Full Width -->
 <p align="center">
@@ -158,3 +157,15 @@ Management should investigate the product mix, pricing and cost structures of hi
     </td>
   </tr>
 </table>
+
+Bikes account for the largest share of product revenue, generating 61.78M (72.5%) of total revenue, followed by Accessories at 15.12M (17.7%) and Clothing at 8.37M (9.8%). This indicates that the business relies heavily on its bicycle product range to generate sales.
+
+At the individual product level, Road-150 Red, 62 is the highest revenue-generating product, contributing approximately 3.83M. However, the profit ranking tells a different story. Mountain-200 Black, 38 ranks first with approximately 1.31M in profit, while Road-150 Red, 62 ranks second with 1.24M. The Mountain-200 series also occupies three of the five highest-profit positions. Notably, Sport-100 Helmet, Red ranks fourth, contributing approximately 1.19M in profit.
+
+These differences show why revenue alone is not enough to evaluate product performance. A product generating the highest sales value does not necessarily contribute the highest profit. The strong profit contribution from several Mountain-200 variants and the Sport-100 Helmet also highlights the importance of evaluating both bicycle and accessory performance.
+
+**Business Recommendations**
+- Maintain close attention to stock availability and profitability for leading bicycle models, particularly the Mountain-200 variants.
+- Review product costs and profit margins to understand differences between high-revenue and high-profit products.
+- Explore targeted bicycle-and-helmet bundle offers to encourage accessory purchases.
+- Evaluate product performance using both revenue and profit when making inventory and marketing decisions.
