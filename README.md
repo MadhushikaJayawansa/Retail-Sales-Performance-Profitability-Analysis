@@ -66,7 +66,7 @@ Supporting KPIs, including units sold and cost, provide additional context for u
 
 ### Monthly Revenue by Year
 
-#### Revenue Accelerated in the Second Half of 2013 and 2015, Reaching a Record 3.85 Million in December 2015
+### Revenue Accelerated in the Second Half of 2013 and 2015, Reaching a Record 3.85 Million in December 2015
 
 <img src="Charts/TIME_Heatmap_Revenue.png">
 
@@ -85,3 +85,49 @@ The repeated increase in December revenue across the complete years suggests tha
 **So What?**
 
 Management could investigate the sales activities, product performance and market contributions associated with these high-revenue periods. Understanding the factors behind these increases could help improve inventory planning, promotional timing and resource allocation during important sales periods.
+
+### Revenue by Country
+
+### The United States and Australia Generate Nearly 58% of Total Revenue
+
+<img src="Charts/Revenue by Country.png">
+
+The geographical revenue analysis reveals a significant concentration of sales in two markets: the United States and Australia.
+
+The **United States leads with 27.98 million in revenue**, contributing approximately **32.8%** of total business revenue. Australia follows with **21.30 million**, representing approximately **25.0%**. Combined, these two markets account for approximately **57.8% of total revenue**.
+
+The remaining four countries contribute considerably less. The United Kingdom generates 10.65 million, followed by Germany at 8.98 million, France at 8.43 million and Canada at 7.94 million.
+
+The difference between the highest and lowest performing markets is substantial. Revenue from the United States is approximately **3.5 times higher than Canada's**.
+
+**Business Insight**
+
+The revenue distribution indicates that the retailer's sales performance is concentrated in the United States and Australia. While these markets provide a strong revenue base, the smaller contributions from the other four countries highlight differences in geographical sales performance. However, revenue alone does not establish which markets are more profitable.
+
+**So What?**
+
+Management should continue monitoring the United States and Australian markets because changes in their sales performance could have a considerable effect on overall revenue. At the same time, the business could investigate growth opportunities in the United Kingdom, Germany, France and Canada by examining regional demand, product preferences and profitability before making expansion or investment decisions.
+
+### Revenue vs Profit Margin by State
+
+### High-Revenue States Do Not Always Deliver the Highest Profit Margins
+
+<img src="Charts/GEO_Scatter_State.png">
+
+The state-level performance analysis compares revenue and profit margin to evaluate whether the regions generating the highest sales are also retaining a greater proportion of revenue as profit.
+
+A four-quadrant scatter plot was used to examine three dimensions simultaneously: revenue, profit margin and order quantity. Median benchmarks of approximately **1.7 million in revenue** and **39% profit margin** divide the states into four performance groups.
+
+The analysis highlights an important difference between sales scale and profitability. The highest-revenue state generated approximately **17.6 million in revenue**, with a profit margin of around **44%** and an order volume of approximately **270,000 units**.
+
+However, another high-volume state generated approximately **7.9 million in revenue** while achieving a profit margin of around **47%**, demonstrating that a region with lower revenue can retain a greater proportion of its sales as profit.
+
+In contrast, several states generating between **5 million and 9.2 million in revenue** recorded profit margins below 35%, indicating that relatively strong sales do not necessarily translate into equally strong profitability.
+
+**Business Insight**
+
+The findings reveal differences in how effectively geographical markets convert revenue into profit. Some high-revenue states combine substantial sales volume with healthy margins, while other regions generate considerable revenue but retain a smaller proportion as profit. This suggests that evaluating geographical performance through revenue alone could overlook important differences in profitability.
+
+**So What?**
+
+Management should investigate the product mix, pricing and cost structures of high-revenue, lower-margin states to identify opportunities for improving profitability. The higher-margin state could also provide a useful comparison for understanding differences in product and sales performance. These investigations should take place before assuming that increasing sales volume will automatically improve financial performance.
