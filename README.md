@@ -10,6 +10,7 @@ The business recorded approximately 85.27 million in revenue and 32.22 million i
 
 As the Data Analyst in this project, my objective is to identify the factors contributing to business performance, highlight areas requiring management attention and translate the findings into practical recommendations.
 
+
 ## Business Context
 
 The business operates across six international markets: the United States, Australia, the United Kingdom, Germany, France and Canada. Its product portfolio includes three main categories: Bikes, Accessories and Clothing.
