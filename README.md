@@ -248,7 +248,9 @@ These recommendations are proposed actions based on the observed patterns. Their
 
 ### Dataset Overview
 
-The project uses a retail sales dataset containing 113,036 original records and 18 columns, covering January 2011 to July 2016.
+The project uses a retail sales dataset on Kaggle containing 113,036 original records and 18 columns, covering January 2011 to July 2016.
+
+ <a href="https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe">Go to Dataset on Kaggle</a>
 
 The dataset includes information about sales dates, products, product categories, customer demographics, geographic markets, order quantities, revenue, costs and profit.
 
