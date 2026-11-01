@@ -184,3 +184,109 @@ A similar pattern appeared between late 2015 and mid-2016. Profit margins increa
 **Business Implications and Recommendations**
 
 The temporary increases in profit margin suggest opportunities to investigate which products, pricing changes or cost movements contributed to stronger profitability during these periods. Management should compare product mix, selling prices and costs during peak-margin months against more typical periods. Understanding these differences could help identify practices worth maintaining and areas where profitability can be improved more consistently.
+
+
+## 5. Key Business Insights
+
+The analysis revealed several important patterns in the retailer's sales and profitability performance.
+
+### 1. Revenue Is Concentrated in Two Major Markets
+
+The United States generated 27.98M (32.8%) of total revenue, while Australia contributed 21.30M (25.0%). Together, these two markets accounted for approximately 57.8% of total revenue.
+
+This indicates a considerable reliance on these markets for sales performance. Although the remaining four countries contribute to the business, their individual revenue levels are substantially lower. This makes the performance of the United States and Australia particularly important to overall revenue.
+
+### 2. Bikes Dominate Revenue, but Revenue and Profit Rankings Differ
+
+Bikes generated 61.78M, representing 72.5% of total revenue. At the individual product level, Road-150 Red, 62 was the leading revenue contributor at 3.83M. However, Mountain-200 Black, 38 ranked first in profit at 1.31M.
+
+This difference demonstrates that the product generating the highest revenue does not necessarily generate the highest profit. The Sport-100 Helmet, Red also ranked among the five most profitable products, highlighting the contribution of accessories to overall profitability.
+
+### 3. Revenue Growth Does Not Always Translate into Higher Profitability
+
+In 2015, revenue increased by 41.49%, while profit increased by 28.38%. Over the same period, the profit margin declined from 41.43% in 2014 to 37.60% in 2015.
+
+This indicates that although the business generated considerably more revenue in 2015, profit did not grow at the same rate. The decline in profit margin highlights the importance of monitoring costs and profitability alongside sales growth.
+
+### 4. Profitability Varies Across Geographic Markets
+
+The state-level analysis revealed differences in profitability across regions. British Columbia recorded a profit margin of approximately 46.88%, while Washington recorded approximately 29.63%. California also performed strongly, with a margin of approximately 43.98%.
+
+These differences suggest that revenue performance alone does not provide a complete picture of regional performance. Comparing profit margins across states can help management identify regions that may require further investigation into product mix, pricing and costs.
+
+### 5. Adult Customers Represent the Largest Revenue Segment
+
+Customers aged 35–64 contributed approximately 42.58M, accounting for around 50% of total revenue. Young Adults (25–34) generated approximately 30.66M, making them the second-largest revenue segment.
+
+Together, these two age groups account for a substantial share of sales. This provides a useful starting point for understanding the customer segments contributing most to revenue and evaluating opportunities for targeted marketing.
+
+---
+
+## 6. Business Recommendations
+
+Based on the findings, the following actions could help management improve sales performance, monitor profitability and make more informed business decisions.
+
+| Business Opportunity | Recommended Action | Expected Business Benefit |
+|---|---|---|
+| Dependence on the United States and Australia | Monitor sales performance in these major markets while investigating growth opportunities in the other four countries. | Support market development and reduce reliance on the two largest revenue contributors. |
+| Differences between product revenue and profit | Evaluate products using both revenue and profit, and review the costs and margins of leading products. | Improve product selection and support more profitable sales decisions. |
+| Declining profit margin despite revenue growth | Monitor monthly profit margins, product costs and changes in profitability alongside revenue. | Identify potential profitability issues earlier and support better cost management. |
+| Regional profitability differences | Investigate product mix, pricing and cost differences in lower-margin states and compare them with stronger-performing regions. | Identify opportunities to improve regional profitability. |
+| Concentration of revenue among adult customers | Use customer segment findings to evaluate targeted marketing campaigns and product offers for Adults and Young Adults. | Improve marketing relevance and identify opportunities to increase sales among important customer segments. |
+| Contribution from profitable accessories | Test targeted bicycle-and-helmet bundle offers and monitor their effect on accessory sales and order profitability. | Explore opportunities to increase accessory purchases and overall profit contribution. |
+
+These recommendations are proposed actions based on the observed patterns. Their actual impact should be evaluated through further analysis and business testing.
+
+
+## 7. Technical Details
+
+### Tools and Technologies
+
+- **Python:** Data inspection, cleaning, preparation and validation using Pandas and NumPy.
+- **Tableau:** Exploratory business analysis, KPI reporting, interactive dashboards and visual storytelling.
+- **GitHub:** Project documentation, README presentation and portfolio sharing.
+
+### Dataset Overview
+
+The project uses a retail sales dataset containing 113,036 original records and 18 columns, covering January 2011 to July 2016.
+
+The dataset includes information about sales dates, products, product categories, customer demographics, geographic markets, order quantities, revenue, costs and profit.
+
+### Data Preparation
+
+- Inspected the dataset structure, data types, missing values and duplicate records.
+- Removed 1,000 exact duplicate rows.
+- Converted the date column into a datetime format.
+- Reviewed categorical values and numerical fields for consistency.
+- Prepared and validated the final cleaned dataset, containing 112,036 records and 18 columns.
+
+### Analytical Methods
+
+- Descriptive analysis of revenue, profit, costs and profit margins.
+- Comparative analysis across countries, states, product categories and individual products.
+- Monthly and yearly trend analysis.
+- Customer segmentation by age group and gender.
+- Profitability comparisons using profit margin and product-level performance.
+
+**Key Metric:** Profit Margin = (Profit / Revenue) × 100
+
+### Project Scope and Limitations
+
+- The dataset does not contain a unique customer identifier, so customer retention, repeat purchases and customer lifetime value could not be measured.
+- The analysis identifies patterns and relationships in historical sales data; it does not establish the causes behind those patterns.
+- The dataset ends in July 2016, so 2016 represents a partial year and should not be directly compared with complete years.
+- The original dataset's currency and source attribution should be verified before making currency-specific claims or publishing source credits.
+- Recommendations are analytical proposals and require further investigation or testing before implementation.
+
+
+## 8. Project Resources
+
+Explore the complete project and supporting materials:
+
+- **Interactive Tableau Dashboard:** [View the Live Dashboard](https://public.tableau.com/views/SalesIntelligence_17932751713960/05TrendsProfitability?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- **Python Data Preparation Notebook:** [View the Google Colab Notebook](https://colab.research.google.com/drive/1sFuC_X9rQnSapmMHf_Af2jBsSvAP9Tyf?usp=sharing)
+
+- **Cleaned Dataset:** [View the Cleaned Dataset](data\retail_sales_cleaned.csv)
+
+The Tableau dashboard provides interactive views of sales performance, product profitability, geographic performance, trends and customer segments. The Google Colab notebook documents the Python-based data preparation and cleaning process.
